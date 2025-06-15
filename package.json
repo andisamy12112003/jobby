@@ -1,7 +1,7 @@
 {
   "name": "jobby-app",
   "private": true,
-  "homepage": "https://andisamy12112003.github.io/jobby/",
+  "homepage": "https://andisamy12112003.github.io/jobby-login/",
   "version": "0.0.0",
   "type": "module",
   "scripts": {
